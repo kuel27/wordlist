@@ -1,3 +1,6 @@
+time travel
+elon musk
+vladimir putin
 baking powder
 boxcar
 satellite dish
@@ -111,7 +114,7 @@ dab
 cringe
 mr. meeseeks
 full
-hot sauce
+*** sauce
 sad
 geography
 cello
@@ -333,7 +336,7 @@ tie
 northern lights
 germany
 clerk
-hot air balloon
+*** air balloon
 swordfish
 arrow
 totem
@@ -691,11 +694,58 @@ blizzard
 outlaw
 cornfield
 stonehenge
+zoom call
+steve jobs
+garbage truck
+snowball fight
+gangrene
+evening
+slave
+playstation
+blueberry
+rollerblade
+solar flare
+cow
+tee
+detonate
+neptune
+paintball
+tree
+pet food
+curtain
+tissue box
+gloves
+oven
+nightlight
+cucumber
+watch
+toothpaste
+weight
+asia
+bad
+chip
+jet pack
+notification
+fruit
+harvester
+clown
+mug
+thumbs down
+husband
+police
+wood
+kfc
+combine harvester
+slippers
+tricycle
+owl
+chameleon
+patient
+bored
+hot sauce
+hot air balloon
 kidney
 levitate
-time travel
-elon musk
-vladimir putin
 fifa
 wedding
 hole
@@ -771,7 +821,6 @@ arm
 armadillo
 armor
 ash
-asia
 assassin
 assault
 asterix
@@ -794,7 +843,6 @@ backbone
 backflip
 backpack
 bacon
-bad
 bag
 bagel
 bait
@@ -887,7 +935,6 @@ blind
 blindfold
 blood
 blue
-blueberry
 blush
 bmw
 boar
@@ -1006,7 +1053,6 @@ cerberus
 chainsaw
 chair
 chalk
-chameleon
 champagne
 champion
 chandelier
@@ -1057,7 +1103,6 @@ cloth
 clothes hanger
 cloud
 clover
-clown
 clownfish
 coach
 coal
@@ -1107,7 +1152,6 @@ corn dog
 corpse
 cotton
 cotton candy
-cow
 cowbell
 coyote
 crack
@@ -1128,10 +1172,8 @@ cruise
 crust
 cuba
 cuckoo
-cucumber
 cupcake
 curry
-curtain
 cushion
 customer
 cute
@@ -1166,7 +1208,6 @@ desert
 desk
 desperate
 detective
-detonate
 dew
 dexter
 diagonal
@@ -1258,7 +1299,6 @@ error
 eskimo
 espresso
 europe
-evening
 exam
 excavator
 exercise
@@ -1355,7 +1395,6 @@ fries
 frog
 frosting
 frown
-fruit
 funeral
 funny
 furniture
@@ -1393,7 +1432,6 @@ glitter
 globe
 gloss
 glove
-gloves
 glow
 glowstick
 glue
@@ -1509,7 +1547,6 @@ hummingbird
 hunter
 hurdle
 hurt
-husband
 hyena
 ice
 iceberg
@@ -1573,7 +1610,6 @@ kendama
 ketchup
 kettle
 key
-kfc
 kim jong-un
 kindergarten
 king
@@ -1770,7 +1806,6 @@ mr. bean
 mtv
 mud
 muffin
-mug
 murderer
 muscle
 museum
@@ -1788,7 +1823,6 @@ neck
 neighbor
 neighborhood
 nemo
-neptune
 netherlands
 network
 netflix
@@ -1811,7 +1845,6 @@ nostrils
 notebook
 notepad
 nothing
-notification
 novel
 nugget
 nuke
@@ -1843,12 +1876,10 @@ ostrich
 outside
 oval
 overweight
-owl
 oxygen
 oyster
 page
 paint
-paintball
 palette
 palm
 pan
@@ -1868,7 +1899,6 @@ party
 password
 pastry
 path
-patient
 patio
 patrick
 pavement
@@ -1892,7 +1922,6 @@ pepperoni
 pepsi
 periscope
 person
-pet food
 petal
 pharmacist
 photo frame
@@ -1935,7 +1964,6 @@ place
 platypus
 player
 playground
-playstation
 plow
 plumber
 plunger
@@ -2116,7 +2144,6 @@ scuba
 sculpture
 scythe
 sea
-tree
 seafood
 search
 seashell
@@ -2200,7 +2227,6 @@ snake
 sneeze
 sniper
 snow
-snowball fight
 snowboard
 snowflake
 snowman
@@ -2266,7 +2292,6 @@ steam
 stegosaurus
 stew
 stereo
-steve jobs
 sting
 stingray
 stomach
@@ -2333,7 +2358,6 @@ tattoo
 taxi
 taxi driver
 tea
-tee
 teacher
 tear
 teaspoon
@@ -2366,7 +2390,6 @@ tiny
 tip
 tiramisu
 tired
-tissue box
 titanic
 toast
 toaster
@@ -2377,7 +2400,6 @@ tongue
 toolbox
 tooth
 toothbrush
-toothpaste
 toothpick
 top hat
 torch
@@ -2409,7 +2431,6 @@ treehouse
 trend
 triangle
 trick shot
-tricycle
 trigger
 triplets
 tripod
@@ -2489,7 +2510,6 @@ walrus
 warm
 wart
 wasp
-watch
 water
 water cycle
 water gun
@@ -2599,3 +2619,33 @@ addida
 hay bale
 shoulders
 leonardo di caprio
+biker
+kool-aid
+paint roller
+artery
+ferris wheel
+greenland
+wheelchair
+art
+float
+salsa
+anchovy
+speedometer
+athena
+rope
+shaggy
+great barrier reef
+braille
+usa
+wales
+roller coaster
+locker
+agreement
+explode
+mugshot
+offline
+pasture
+disabled
+dumbbell
+chorus
+hangman
