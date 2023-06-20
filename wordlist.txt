@@ -2941,7 +2941,6 @@ lan
 loch ness
 rock climbing
 cookout
-
 twins
 cavern
 landfill
@@ -3028,3 +3027,16 @@ cranberry
 sip
 spotify
 vehicle
+pacman
+trex
+acdc
+bandaid
+colorblind
+wlan
+koolaid
+barrier
+chipmunk
+shrug
+doormat
+cent
+city
