@@ -2593,9 +2593,7 @@ zoo
 zoom
 zorro
 zuma
-bull4
 reed
-addida
 hay bale
 shoulders
 leonardo di caprio
@@ -3174,3 +3172,6 @@ dumpling
 empty
 back seat
 samurai
+gramophone
+fresh
+bison
