@@ -3522,5 +3522,4 @@ checkers
 eyeliner
 purple
 kingdom
-prime
-meridian
+prime meridian
