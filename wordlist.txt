@@ -3621,4 +3621,5 @@ average
 ukraine
 mean
 plains
-photobomb
+platform
+george washington
